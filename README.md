@@ -3,7 +3,7 @@ This program can automatically add HTML tags to plain text files and interact in
 
 This is a project based on Python 3.
 
-Its prototype is an engineering exercise in Magnus lie Hetland's Book Beginning Python from advice to professional. I improved it in codes and functions, made it more powerful, and added graphic interface.
+Its prototype is an engineering exercise in Magnus lie Hetland's Book Beginning Python from advice to professional. I improved it in code and function, made it more powerful, and added graphic interface.
 
 这个程序可以自动地给纯文本文件添加HTML标签，并且以图形界面的方式交互。
 
