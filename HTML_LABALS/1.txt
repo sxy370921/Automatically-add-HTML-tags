@@ -1,0 +1,27 @@
+写在最后
+
+我叫*邵旭阳*，
+这是我的第二次工作汇报，
+完成Python基础部分学习
+
+
+
+关于HTML:
+
+超文本标记语言（英语：HyperText Markup Language，简称：HTML）,
+是一种用于创建网页的标准标记语言。
+
+常用网址
+
+-百度:http://www.baidu.com
+
+-菜鸟教程:http://www.runoob.com/
+
+我的联系方式
+
+邮箱：
+1750829914@qq.com
+
+我的QQ：1750829914
+
+
